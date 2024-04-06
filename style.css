@@ -1,0 +1,30 @@
+#fondoinicio {
+  background-image: url(Imagenes/Fondo.jpeg);
+  background-size: cover;
+  height: 100vh;
+  border-radius: 5%;  
+}
+
+
+
+#fondopersonajes {
+  background-image: url(Imagenes/Fondopersonajes.jpeg);
+  background-size: cover;
+  height: 100vh;
+}
+
+
+
+#Empezar {
+  height: 75px;
+  width: 120px;
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#fondoeleccionpersonajes {
+  background-image: url(./Imagenes/Fondo.jpeg);
+  background-size: cover;
+}
